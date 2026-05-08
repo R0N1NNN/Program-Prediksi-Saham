@@ -1,0 +1,21 @@
+# Model & hasil training (file besar, tidak dibutuhkan oleh Streamlit app)
+models/
+hasil/
+
+# Gambar hasil generate
+image/
+
+# Notebook & dokumen
+*.ipynb
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Streamlit local config
+.streamlit/secrets.toml
